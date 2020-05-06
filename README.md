@@ -2,8 +2,8 @@
 
 ## Sobre o Projeto
 
-Projeto criado para aplicar os estudos no GoStack do módulo Conceitos NodeJs.
-Cria repositórios, atualiza, delete, lista e da "likes" 👍.
+Projeto criado para aplicar os estudos no GoStack do módulo Conceitos NodeJs. <br />
+Cria, atualiza, deleta, lista e da "likes" 👍 repositórios.
 
 ## Tecnologias Utilizadas 
 
